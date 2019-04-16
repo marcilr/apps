@@ -10,3 +10,7 @@ apps.txt
 
 links.txt
   Application related links
+
+manifest
+  Manifest file for use by resync script 
+
