@@ -30,3 +30,4 @@
 # Source                                         Target
 # ----------------------------------------------------------
 ssh://git@github.com/marcilr/libreoffice.git     libreoffice
+ssh://git@github.com/marcilr/msoffice.git        msoffice
