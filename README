@@ -14,3 +14,5 @@ links.txt
 manifest
   Manifest file for use by resync script 
 
+office/
+  Microsoft office applications (word, excel, powerpoint)
