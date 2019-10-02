@@ -30,6 +30,5 @@
 # Source                                         Target
 # ----------------------------------------------------------
 ssh://git@github.com/marcilr/libreoffice.git     libreoffice
-ssh://git@github.com/marcilr/msoffice.git        msoffice
 ssh://git@github.com/marcilr/ocr                 ocr
 ssh://git@github.com/marcilr/office              office
