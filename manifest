@@ -29,6 +29,7 @@
 # ----------------------------------------------------------
 # Source                                         Target
 # ----------------------------------------------------------
+ssh://git@github.com/marcilr/adobe.git           adobe
 ssh://git@github.com/marcilr/libreoffice.git     libreoffice
-ssh://git@github.com/marcilr/ocr                 ocr
-ssh://git@github.com/marcilr/office              office
+ssh://git@github.com/marcilr/ocr.git             ocr
+ssh://git@github.com/marcilr/office.git          office
